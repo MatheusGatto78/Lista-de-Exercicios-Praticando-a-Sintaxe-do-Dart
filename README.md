@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios---Pr-ticando-a-Sintaxe-do-Dart
+# Lista-de-Exercicios-Praticando-a-Sintaxe-do-Dart
